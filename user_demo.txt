@@ -16,7 +16,6 @@
 广东珠江,http://gs.jianghua.fun:8888/rtp/239.20.0.64:3144
 广东体育,http://gs.jianghua.fun:8888/rtp/239.20.0.103:2004
 广东影视,http://gs.jianghua.fun:8888/rtp/239.21.0.85:3680
-广东公共,http://gs.jianghua.fun:8888/rtp/239.21.0.86:3684
 广东少儿,http://gs.jianghua.fun:8888/rtp/239.21.0.87:3688
 广东新闻,rhttp://gs.jianghua.fun:8888/rtp/239.21.0.93:3712
 广东卫视,http://gs.jianghua.fun:8888/rtp/239.20.0.101:2000
